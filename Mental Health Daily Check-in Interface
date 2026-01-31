@@ -1,0 +1,51 @@
+Mental Health Daily Check-in Interface
+
+Problem Statement
+
+In today’s fast-paced digital world, individuals—especially students and young adults—often experience fluctuating emotional states such as stress, anxiety, and emotional fatigue. While mental health awareness is increasing, many existing solutions feel overly clinical, intrusive, or overwhelming, which discourages consistent daily use. There is a need for a gentle, private, and emotionally safe digital space that allows users to reflect on their mental state without pressure, judgment, or complexity.
+
+The challenge is to design an interface that enables daily mental health check-ins in a way that feels comforting rather than medical, encourages habitual use, and supports emotional self-awareness through simple, intuitive interactions.
+
+Design Idea and Concept
+
+Core Vision
+
+The interface is envisioned as a cozy, creative personal diary—a safe digital nook where users can quietly check in with themselves. Instead of diagnosing or tracking aggressively, the design promotes self-awareness and emotional wellness through small, consistent habits.
+
+Visual and Aesthetic Direction
+
+The interface follows a minimalist, clutter-free layout to avoid cognitive overload. A soft pastel color palette inspired by hand-drawn illustrations is used to create a calming atmosphere. Calm typography and subtle animations enhance the soothing experience. The overall tone remains warm, non-clinical, and emotionally reassuring.
+
+Daily Check-in Flow
+
+A single, gentle prompt appears once a day:
+“What’s the vibe in your mind right now?”
+
+There is no mandatory text input, ensuring the experience remains light and non-intrusive. The check-in is completely private, reinforcing trust and emotional safety.
+
+Emoji-Based Mood Selection
+
+Users select from a range of expressive emojis representing different emotional states. Emojis reduce friction and make emotional expression quick and intuitive. This approach encourages regular engagement without requiring emotional effort or detailed self-explanation.
+
+Personalized Mood-Based Suggestions
+
+Based on the selected mood, the interface gently offers supportive suggestions.
+
+For anxious or stressed moods, users are guided toward breathing exercises, calming visuals, or soothing background sounds.
+
+For neutral or low-energy moods, the interface suggests journaling prompts, mindfulness reflections, or gentle self-check questions.
+
+For happy or positive moods, users receive affirmations, gratitude prompts, or optional ways to share positivity.
+
+All suggestions are optional and designed to feel like friendly nudges rather than tasks.
+
+Purpose and Impact
+
+The interface encourages emotional awareness through daily reflection and helps build a healthy mental wellness habit without pressure. It reduces stigma by avoiding clinical language and rigid tracking, while creating a safe emotional space users feel comfortable returning to daily.
+
+Conclusion
+
+This interface aims to redefine mental health check-ins by focusing on comfort, simplicity, and emotional warmth. By blending minimalist design, expressive emojis, and personalized yet gentle suggestions, the product supports mental well-being in a way that feels human, creative, and deeply personal—like opening a diary rather than using a medical app.
+
+Figma Project Link
+https://www.figma.com/design/TlwT87MfMTszA3ZLWPy9SG/aakruti-2025?node-id=0-1&t=6V394HPwAeJcLXqH-1
